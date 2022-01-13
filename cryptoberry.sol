@@ -1,8 +1,4 @@
 /**
- *Submitted for verification at BscScan.com on 2022-01-13
-*/
-
-/**
 *
    _____                  _        ____                       
   / ____|                | |      |  _ \                      
@@ -29,7 +25,7 @@ Follow CryptoBerry
 Web: https://thecryptoberry.com/
 twitter: https://twitter.com/MyCryptoBerry
 Telegram: https://t.me/cryptoberrycommunity
-Facebook: https://www.facebook.com/cryptoberryc...
+Facebook: https://www.facebook.com/cryptoberrycommunity
 Instagram: https://www.instagram.com/mycryptoberry/
 
 
